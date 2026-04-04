@@ -684,9 +684,9 @@ a:hover {
   z-index: 4;
   transition: top ease 1s;
 }
-.navbar.sticky {
+/*.navbar.sticky {
   background: #0b0b0b;
-}
+}*/
 .navbar.nav-down {
   top: 0;
 }
