@@ -1,12 +1,5 @@
 /*
 
-@Author: Themezinho
-@URL: http://www.themezinho.net
-
-This file contains the styling for the actual theme, this
-is the file you need to edit to change the look of the
-theme.
-
 
 	// Table of contents //
 
@@ -684,9 +677,9 @@ a:hover {
   z-index: 4;
   transition: top ease 1s;
 }
-.navbar.sticky {
-  background: #0b0b0b;
-}
+/*.navbar.sticky {
+  background: #580303;
+}*/
 .navbar.nav-down {
   top: 0;
 }
